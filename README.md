@@ -6,4 +6,4 @@ Traning a model to generate french rap lyrics on data scraped from Genius:
 
 * Building a bidirectional LSTM model that learns how to generate a verse given one or two sentences
 
-![](https://github.com/Adib-Habbou/portfolio/blob/main/images/memenek.jpg)
+![](https://github.com/Adib-Habbou/portfolio/blob/main/images/LSTM.png)
