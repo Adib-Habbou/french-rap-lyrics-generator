@@ -6,6 +6,6 @@ Traning a model to generate french rap lyrics on data scraped from Genius:
 
 * Building a bidirectional LSTM model that learns how to generate a verse given one or two sentences
 
-You can find my article on  LSTM networks just here: [La Revue IA article](https://larevueia.fr/quest-ce-quun-reseau-lstm/)!
+You can find my article on  LSTM networks just here: [La Revue IA LSTM article](https://larevueia.fr/quest-ce-quun-reseau-lstm/)!
 
 ![](https://github.com/Adib-Habbou/portfolio/blob/main/images/Robot%20Rapper%201.png)
